@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_data>
+  <File wkspFile=".\Source\emWin_config\GUI_X.c" installFile="psoc6sw-1.1\components\psoc6mw\emWin\code\config\nos\GUI_X.c" checksum="C3F6FD93B702A03984040260D658E9A6703FB564"/>
+  <File wkspFile="Source\ExampleImage.c" installFile="Source\ExampleImage.c" checksum="89C07040262D202EDFEBF548C45B07F062EFD42F"/>
+  <File wkspFile="cy8c6xx7_cm4_dual.ld" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\linker\gcc\cy8c6xx7_cm4_dual.ld" checksum="6C8C7F9AC32522A21ECE64BE694800F79B0E8EAF"/>
+  <File wkspFile="design.modus" installFile="design.modus" checksum="50A41D5481808FA19E89173B198F49DEC364AD58"/>
+  <File wkspFile="Source\emWin_config\LCDConf.h" installFile="Source\emWin_config\LCDConf.h" checksum="28BB7F4640740FEB562E5716A4CC4725189D2660"/>
+  <File wkspFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" checksum="F588109B80706A2549C1FE9D3E7A526A6F1B3CC9"/>
+  <File wkspFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\system_psoc6_cm4.c" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\system_psoc6_cm4.c" checksum="B3800034C363591C13FC0B3040350334DA5252A3"/>
+  <File wkspFile="Source\CypressLogo.c" installFile="Source\CypressLogo.c" checksum="655A845BBD6A9F306D1BA3B68120B42C8A046FEC"/>
+  <File wkspFile=".\Source\emWin_config\GUIConf.c" installFile="psoc6sw-1.1\components\psoc6mw\emWin\code\config\GUIConf.c" checksum="3B10FE78F4FA00A0DB86F3E2EC7A715035F8B808"/>
+  <File wkspFile="Source\cy8ckit_028_tft\cy8ckit_028_tft.c" installFile="Source\cy8ckit_028_tft\cy8ckit_028_tft.c" checksum="7CCBC4952B6480B0056AA16988B24D0EB578685B"/>
+  <File wkspFile="Source\emWin_config\LCDConf.c" installFile="Source\emWin_config\LCDConf.c" checksum="1DD72B3492C2AA0B49EF13E92585AFD9B46CCFDC"/>
+  <File wkspFile="Source\cy8ckit_028_tft\cy8ckit_028_tft.h" installFile="Source\cy8ckit_028_tft\cy8ckit_028_tft.h" checksum="EE653E783B2495171778D172CDB0040FB6B08ED5"/>
+  <File wkspFile="Source\main.c" installFile="Source\main.c" checksum="5E72D61C8B58271A9BCD63C70EB91C57F540DD6A"/>
+  <File wkspFile=".\psoc6_01_cm0p_sleep_signed.elf" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\cm0p\prebuilt\psoc6_01_cm0p_sleep_signed.elf" checksum="0DCF7490902EA561C76D68485932290555DD7E5D"/>
+  <artifact name="mainapp"/>
+</component_data>
